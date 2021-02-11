@@ -9,7 +9,7 @@
   </p>
   </b>
 <p align="center">
-    <img width="200" height="150" src="Mango.png">
+    <img width="400" height="300" src="Mango.png">
     </p>
 <p align="center">
   <b>Links:</b><br>
