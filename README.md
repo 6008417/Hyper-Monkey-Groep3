@@ -8,7 +8,9 @@
   Ala3 Energie website-Hypermonkey
   </p>
   </b>
-    <img src="Mango.png">
+<p align="center">
+    <img width="200" height="150" src="Mango.png">
+    </p>
 <p align="center">
   <b>Links:</b><br>
   <a href="https://mborijnland.sharepoint.com/:w:/s/PRJLO0E-SWD4-3Groep3/EYiKdvN8rCJDl7XQIx1alPkBN7nyCOLbUqAvgF9bSmCQMA?e=MnAsnn">interview verslag (controle nodig)</a> |
