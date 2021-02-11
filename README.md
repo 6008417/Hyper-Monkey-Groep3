@@ -1,3 +1,4 @@
+theme: jekyll-theme-time-machine
 <h1>
 <p align="center">
    School Project:
