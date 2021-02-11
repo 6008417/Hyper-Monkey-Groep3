@@ -1,6 +1,8 @@
+<h1>
 <p align="center">
-   <h1>School Project:</h1>
+   School Project:
    </p>
+   </h1>
 
 Ala3 Energie website-Hypermonkey <br><br>
 <p align="center">
