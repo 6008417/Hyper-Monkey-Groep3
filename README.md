@@ -1,2 +1,1 @@
-School Project
-&6Ala3 Energie website-Hypermonkey
+School Project <br> Ala3 Energie website-Hypermonkey
