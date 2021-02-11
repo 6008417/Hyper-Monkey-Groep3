@@ -1,5 +1,6 @@
-
-# School Project:<br>
+<p align="center">
+   School Project:
+   </p>
 
 Ala3 Energie website-Hypermonkey <br><br>
 <p align="center">
